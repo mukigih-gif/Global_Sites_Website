@@ -1,2 +1,1 @@
-# LMS-Accounts
-LMS ACCOUNTING SYSTEM
+
